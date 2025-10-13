@@ -40,7 +40,7 @@ A arquitetura proposta será desenhada para atender aos seguintes requisitos cru
 
 ## 🖼️ Visão Conceitual da Arquitetura
 
-Para dar uma ideia do que será abordado no diagrama de arquitetura, aqui está uma representação visual conceitual:
+Para dar uma ideia do que será abordado no diagrama de arquitetura, aqui está uma representação visual conceitual (clique na imagem para expandir):
 
 <p align="center">
    <img src="https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Net/blob/main/src/Arch.PBH.API.ViagensServidores.drawio_l.png?raw=true" width="600" alt="Diagrama">
