@@ -1,4 +1,5 @@
-# 🚀 Proposta de Arquitetura: Hub de Integração e Orquestração Resiliente
+# 🚀 Proposta de Arquitetura: 
+# Hub de Integração e Orquestração Resiliente
 
 ## 📌 Contexto do Desafio
 
@@ -43,7 +44,7 @@ A arquitetura proposta será desenhada para atender aos seguintes requisitos cru
 Representação visual conceitual (clique na imagem para expandir):
 
 <p align="center">
-   <img src="https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Net/blob/main/src/Arch.PBH.API.ViagensServidores.drawio_l.png?raw=true" width="600" alt="Diagrama">
+   <img src="https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Net/blob/main/src/Arch.PBH.API.ViagensServidores_l.png?raw=true" width="700" alt="Diagrama">
 </p>
 
 ## ✨ Codigo Fonte:
