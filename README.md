@@ -62,4 +62,9 @@ Cliente ResilientSender (Resiliencia Dados RabbitMq)
 ~~~
 https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
+
+Worker ConsumerRabbitMq
+~~~
+https://github.com/danhpaiva/ConsumerRabbitMq.Pbh.Smfa.ViagensServidor.Console.Net
+~~~
 ` `
