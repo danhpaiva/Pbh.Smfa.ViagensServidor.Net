@@ -54,7 +54,7 @@ Consumer da API (Terceiros)
 https://github.com/danhpaiva/Consumer.Pbh.Smfa.ViagensServidor.Api.Console.Net
 ~~~
 
-Cliente ResilientSender(Resiliencia dos Dados no RabbitMq)
+Cliente ResilientSender (Resiliencia dos Dados no RabbitMq)
 ~~~
 https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
