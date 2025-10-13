@@ -67,7 +67,6 @@ https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
 https://github.com/danhpaiva/ConsumerRabbitMq.Pbh.Smfa.ViagensServidor.Console.Net
 ~~~
-` `
 
 ## 👤 Desenvolvedor
 
