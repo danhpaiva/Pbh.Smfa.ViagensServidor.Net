@@ -46,19 +46,19 @@ Para dar uma ideia do que será abordado no diagrama de arquitetura, aqui está 
    <img src="https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Net/blob/main/src/Arch.PBH.API.ViagensServidores.drawio_l.png?raw=true" width="600" alt="Diagrama">
 </p>
 
-## ✨ Codigo Fonte - Repositorios:
+## ✨ Codigo Fonte:
 
-API Principal
+PBH - API Principal
 ~~~
 https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Api.Net
 ~~~
 
-Consumer da API (Terceiros)
+Cliente Consumer da API (Terceiros)
 ~~~
 https://github.com/danhpaiva/Consumer.Pbh.Smfa.ViagensServidor.Api.Console.Net
 ~~~
 
-Cliente ResilientSender (Resiliencia dos Dados no RabbitMq)
+Cliente ResilientSender (Resiliencia Dados RabbitMq)
 ~~~
 https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
