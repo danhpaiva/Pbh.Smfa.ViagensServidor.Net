@@ -1,5 +1,4 @@
-# 🚀 Proposta de Arquitetura: 
-# Hub de Integração e Orquestração Resiliente
+# 🚀 Proposta de Arquitetura: <br> Hub de Integração e Orquestração Resiliente
 
 ## 📌 Contexto do Desafio
 
