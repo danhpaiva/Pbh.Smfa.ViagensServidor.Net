@@ -46,7 +46,7 @@ Para dar uma ideia do que será abordado no diagrama de arquitetura, aqui está 
    <img src="https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Net/blob/main/src/Arch.PBH.API.ViagensServidores.drawio_l.png?raw=true" width="600" alt="Diagrama">
 </p>
 
-## ✨ Codigo Fonte Desenvolvido - Repositorios do Projeto:
+## ✨ Codigo Fonte - Repositorios:
 
 API Principal
 ~~~
