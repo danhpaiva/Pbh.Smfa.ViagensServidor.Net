@@ -49,12 +49,12 @@ API Principal
 https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Api.Net
 ~~~
 
-Consumer da API
+Consumer da API (Terceiros)
 ~~~
 https://github.com/danhpaiva/Consumer.Pbh.Smfa.ViagensServidor.Api.Console.Net
 ~~~
 
-Aplicacao que faz Resiliencia dos Dados no RabbitMq
+Cliente ResilientSender(Resiliencia dos Dados no RabbitMq)
 ~~~
 https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
