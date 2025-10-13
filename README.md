@@ -48,23 +48,34 @@ Representação visual conceitual (clique na imagem para expandir):
 
 ## ✨ Codigo Fonte:
 
-PBH - API Principal
+### [PBH - API Principal](https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Api.Net)
 ~~~
 https://github.com/danhpaiva/Pbh.Smfa.ViagensServidor.Api.Net
 ~~~
 
-Cliente Consumer da API (Terceiros)
+### [Cliente Consumer da API (Terceiros)](https://github.com/danhpaiva/Consumer.Pbh.Smfa.ViagensServidor.Api.Console.Net)
 ~~~
 https://github.com/danhpaiva/Consumer.Pbh.Smfa.ViagensServidor.Api.Console.Net
 ~~~
 
-Cliente ResilientSender (Resiliencia Dados RabbitMq)
+### [Cliente ResilientSender (Resiliencia Dados RabbitMq)](https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net)
 ~~~
 https://github.com/danhpaiva/ResilientSender.Pbh.Smfa.ViagensServidor.Net
 ~~~
 
-Worker ConsumerRabbitMq
+### [Worker ConsumerRabbitMq](https://github.com/danhpaiva/ConsumerRabbitMq.Pbh.Smfa.ViagensServidor.Console.Net)
 ~~~
 https://github.com/danhpaiva/ConsumerRabbitMq.Pbh.Smfa.ViagensServidor.Console.Net
 ~~~
 ` `
+
+## 👤 Desenvolvedor
+
+Este projeto foi desenvolvido por:
+
+  * **Nome:** Daniel Paiva
+  * **LinkedIn:** [https://www.linkedin.com/in/danhpaiva/](https://www.linkedin.com/in/danhpaiva/)
+
+Sinta-se à vontade para conectar-se e discutir padrões de arquitetura e resiliência\!
+
+***Criado com ❤️ e .NET***
