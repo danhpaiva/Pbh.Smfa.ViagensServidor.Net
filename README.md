@@ -2,7 +2,7 @@
 
 ## 📌 Contexto do Desafio
 
-Neste repositorio ha links para uma possivel inicial solucao da Arquitetura e um diagrama.<br>
+Neste repositorio ha 02 conteudos: 01 Solucao Inicial de Arquitetura e 01 diagrama da mesma.<br>
 
 Este documento apresenta uma proposta de arquitetura para um sistema que atuará como um **Hub de Integração e Orquestração**. <br>
 A finalidade principal deste hub é intermediar a comunicação e o fluxo de dados entre diversos sistemas de terceiros, garantindo um processamento robusto e confiável.
