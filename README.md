@@ -24,7 +24,7 @@ Propor uma arquitetura técnica que satisfaça os requisitos funcionais e não f
 Representação visual conceitual (clique na imagem para expandir):
 
 <p align="center">
-   <img src="https://i.ibb.co/b5Qrf2WV/pbh.png?raw=true" width="700" alt="Diagrama">
+   <img src="https://i.ibb.co/b5Qrf2WV/pbh.png?raw=true" width="900" alt="Diagrama">
 </p>
 
 ## ✨ Codigo Fonte:
