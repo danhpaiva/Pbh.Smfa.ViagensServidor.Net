@@ -1,4 +1,4 @@
-# 🚀 Proposta de Arquitetura: <br> Hub de Integração e Orquestração Resiliente
+<img width="2881" height="1672" alt="image" src="https://github.com/user-attachments/assets/182c5f6d-b08f-4f26-8ae7-c9094219d94e" /># 🚀 Proposta de Arquitetura: <br> Hub de Integração e Orquestração Resiliente
 
 ## 📌 Contexto do Desafio
 
@@ -24,7 +24,7 @@ Propor uma arquitetura técnica que satisfaça os requisitos funcionais e não f
 Representação visual conceitual (clique na imagem para expandir):
 
 <p align="center">
-   <img src="https://i.ibb.co/b5Qrf2WV/pbh.png?raw=true" width="900" alt="Diagrama">
+   <img src="https://i.ibb.co/jkbLpW6Y/pbh.png?raw=true" width="900" alt="Diagrama">
 </p>
 
 ## ✨ Codigo Fonte:
